@@ -30,7 +30,7 @@ import type { Theme } from 'vitepress'
 import escookTheme from '@escook/vitepress-theme'
 // 2. 导入配套的 CSS 样式（此步骤不能省略）
 import '@escook/vitepress-theme/style.css'
-// 导入您的自定义的样式
+// // 导入您的自定义的样式
 import './style.css'
 
 export default {
