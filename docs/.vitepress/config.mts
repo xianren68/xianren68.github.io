@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-
+import { golangRoutes,frontendRoutes } from './router/index.mts'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "xianren's notes",
@@ -8,18 +8,14 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '前端', link: '/frontend/' },
+      { text: 'Go', link: '/go/' },
     ],
 
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
-    ],
+    sidebar: {
+      '/frontend/': frontendRoutes,
+      '/go/': golangRoutes,
+    },
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }

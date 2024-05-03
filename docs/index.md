@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "xianren's notes"
-  text: "A VitePress Site"
+  text: "一些笔记"
   tagline: My great project tagline
   actions:
     - theme: brand
@@ -15,11 +15,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 
+      src: /icons/javascript.svg
+      
+  - icon:
+      src: /icons/golang.svg
+    link: /go/index
 ---
 
