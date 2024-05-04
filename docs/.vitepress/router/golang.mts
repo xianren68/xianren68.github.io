@@ -10,6 +10,10 @@ export const golangRoutes = [
             {
                 text:'02_基本类型与运算符',
                 link:'/go/base/markdown/02'
+            },
+            {
+                text:'03_字符串处理',
+                link:'/go/base/markdown/03'
             }
         ]
     },
