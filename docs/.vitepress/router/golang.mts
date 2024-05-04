@@ -14,6 +14,10 @@ export const golangRoutes = [
             {
                 text:'03_字符串处理',
                 link:'/go/base/markdown/03'
+            },
+            {
+                text:'04_流程控制',
+                link:'/go/base/markdown/04'
             }
         ]
     },
