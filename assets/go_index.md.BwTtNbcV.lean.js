@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.C62L6tH-.js";const l=JSON.parse('{"title":"go语言笔记","description":"","frontmatter":{"layout":"default","title":"go语言笔记"},"headers":[],"relativePath":"go/index.md","filePath":"go/index.md"}'),a={name:"go/index.md"};function n(r,s,c,d,i,p){return o(),t("div")}const f=e(a,[["render",n]]);export{l as __pageData,f as default};
