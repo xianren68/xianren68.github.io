@@ -18,6 +18,10 @@ export const golangRoutes = [
             {
                 text:'04_流程控制',
                 link:'/go/base/markdown/04'
+            },
+            {
+                text:'05_数组与切片',
+                link:'/go/base/markdown/05'
             }
         ]
     },
