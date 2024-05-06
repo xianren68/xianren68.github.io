@@ -44,4 +44,9 @@ h1 {
     border-color: var(--vp-c-red-2);
   }
 
+  /* info框 */
+  .custom-block.info {
+    /* border-color: #3498db; */
+    border-color: var(--vp-c-blue-2);
+  }
   /* .vitepress\theme\style\var.css */

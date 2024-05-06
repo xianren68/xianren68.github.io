@@ -22,6 +22,10 @@ export const golangRoutes = [
             {
                 text:'05_数组与切片',
                 link:'/go/base/markdown/05'
+            },
+            {
+                text:'06_map',
+                link:'/go/base/markdown/06'
             }
         ]
     },
