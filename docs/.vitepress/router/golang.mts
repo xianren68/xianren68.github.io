@@ -26,6 +26,10 @@ export const golangRoutes = [
             {
                 text:'06_map',
                 link:'/go/base/markdown/06'
+            },
+            {
+                text:'07_函数',
+                link:'/go/base/markdown/07'
             }
         ]
     },
