@@ -30,6 +30,14 @@ export const golangRoutes = [
             {
                 text:'07_函数',
                 link:'/go/base/markdown/07'
+            },
+            {
+                text:'08_包',
+                link:'/go/base/markdown/08'
+            },
+            {
+                text:'09_结构体',
+                link:'/go/base/markdown/09'
             }
         ]
     },
