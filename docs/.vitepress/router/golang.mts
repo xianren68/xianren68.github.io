@@ -47,6 +47,10 @@ export const golangRoutes = [
                 text:'11_接口',
                 link:'/go/base/markdown/11'
             },
+            {
+                text:'12_面向对象',
+                link:'/go/base/markdown/12'
+            }
         ]
     },
     {
