@@ -38,7 +38,15 @@ export const golangRoutes = [
             {
                 text:'09_结构体',
                 link:'/go/base/markdown/09'
-            }
+            },
+            {
+                text:'10_方法',
+                link:'/go/base/markdown/10'
+            },
+            {
+                text:'11_接口',
+                link:'/go/base/markdown/11'
+            },
         ]
     },
     {
