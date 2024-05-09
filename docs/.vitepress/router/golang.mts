@@ -50,6 +50,10 @@ export const golangRoutes = [
             {
                 text:'12_面向对象',
                 link:'/go/base/markdown/12'
+            },
+            {
+                text:'13_反射',
+                link:'/go/base/markdown/13'
             }
         ]
     },
