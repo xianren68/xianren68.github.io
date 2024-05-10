@@ -54,6 +54,10 @@ export const golangRoutes = [
             {
                 text:'13_反射',
                 link:'/go/base/markdown/13'
+            },
+            {
+                text:'14_读写数据',
+                link:'/go/base/markdown/14'
             }
         ]
     },
