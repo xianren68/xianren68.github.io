@@ -58,6 +58,12 @@ export const golangRoutes = [
             {
                 text:'14_读写数据',
                 link:'/go/base/markdown/14'
+            },
+            {
+                text:'15_错误处理',
+                link:'/go/base/markdown/15'
+            },
+            {
             }
         ]
     },
