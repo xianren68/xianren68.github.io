@@ -64,6 +64,8 @@ export const golangRoutes = [
                 link:'/go/base/markdown/15'
             },
             {
+                text:'16_并发',
+                link:'/go/base/markdown/16'
             }
         ]
     },
