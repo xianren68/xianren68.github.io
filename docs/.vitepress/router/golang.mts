@@ -71,7 +71,18 @@ export const golangRoutes = [
     },
     {
         text: '进阶',
-        link:'/golang/advanced/index'
+        link:'/golang/advanced/index',
+        items:[
+            {
+                text:'01_何为runtime',
+                link:'go/thorough/markdown/01'
+            },
+            {
+                text:"02_go程序是如何编译的",
+                link:'go/thorough/markdown/02'
+            }
+            
+        ]
     }
 
 ]
