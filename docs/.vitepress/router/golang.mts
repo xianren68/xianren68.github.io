@@ -80,6 +80,12 @@ export const golangRoutes = [
             {
                 text:"02_go程序是如何编译的",
                 link:'go/thorough/markdown/02'
+            },
+            {
+                text:"03_go程序是如何运行的",
+                link:'go/thorough/markdown/03'
+            },
+            {
             }
             
         ]
