@@ -86,6 +86,12 @@ export const golangRoutes = [
                 link:'go/thorough/markdown/03'
             },
             {
+                text: "04_go语言是面向对象吗？",
+                link:'go/thorough/markdown/04'
+            },
+            {
+                text: "05_空结构体的妙用",
+                link: 'go/thorough/markdown/05'
             }
             
         ]
