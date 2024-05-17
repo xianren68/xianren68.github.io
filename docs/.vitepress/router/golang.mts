@@ -92,6 +92,10 @@ export const golangRoutes = [
             {
                 text: "05_空结构体的妙用",
                 link: 'go/thorough/markdown/05'
+            },
+            {
+                text: "06_字符串",
+                link:'go/thorough/markdown/06'
             }
             
         ]
