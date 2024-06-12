@@ -96,6 +96,10 @@ export const golangRoutes = [
             {
                 text: "06_字符串",
                 link:'go/thorough/markdown/06'
+            },
+            {
+                text: "07_切片",
+                link: "go/thorough/markdown/07"
             }
             
         ]
