@@ -10,6 +10,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: '前端', link: '/frontend/' },
       { text: 'Go', link: '/go/' },
+      {text: '工作中解决的问题', link:'/work/'}
     ],
 
     sidebar: {
