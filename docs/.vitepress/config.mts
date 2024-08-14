@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-import { golangRoutes,frontendRoutes } from './router/index.mts'
+import { golangRoutes,frontendRoutes,workRoutes } from './router/index.mts'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "xianren's notes",
@@ -16,6 +16,7 @@ export default defineConfig({
     sidebar: {
       '/frontend/': frontendRoutes,
       '/go/': golangRoutes,
+      '/work/': workRoutes
     },
 
     socialLinks: [
