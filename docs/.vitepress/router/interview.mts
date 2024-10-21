@@ -6,5 +6,21 @@ export const interviewRouter = [
     {
         text:'移动端',
         link:'/interview/markdown/移动端'
+    },
+    {
+        text:'js',
+        link:'/interview/markdown/js'
+    },
+    {
+        text:'框架',
+        link:'/interview/markdown/框架'
+    },
+    {
+        text:'打包工具',
+        link:'/interview/markdown/打包工具'
+    },
+    {
+        text:'网络，安全，性能优化',
+        link:'/interview/markdown/网络,安全,性能优化'
     }
 ]
