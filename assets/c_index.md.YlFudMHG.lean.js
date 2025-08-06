@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as t}from"./chunks/framework.C62L6tH-.js";const _=JSON.parse('{"title":"如何理解类型声明","description":"","frontmatter":{},"headers":[],"relativePath":"c/index.md","filePath":"c/index.md"}'),n={name:"c/index.md"},e=t("",5),h=[e];function l(p,k,c,o,d,r){return a(),i("div",null,h)}const g=s(n,[["render",l]]);export{_ as __pageData,g as default};
